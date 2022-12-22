@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif"  width = "400px;" height = "250px;">
+<br><br>
 
-<!--
-**MerveGizemKesebir/MerveGizemKesebir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  ***I'm Merve Gizem. :sparkles: <br> Welcome to my Github profile.***
+<br>
 
-Here are some ideas to get you started:
+### I'm a software learner. I’m currently learning <img src =""> Node.js and <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width ="22px;"> JavaScript.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left"  />] [linkedin]
+
+
+<details>
+<summary>:bulb: Most Used Languages </summary>
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</details>
+
+[linkedin] : https://www.linkedin.com/in/merve-gizem-kesebir/
