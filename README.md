@@ -14,4 +14,4 @@
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </details>
 
-[linkedin] : https://www.linkedin.com/in/merve-gizem-kesebir/
+<!-- [linkedin] : https://www.linkedin.com/in/merve-gizem-kesebir/ -->
