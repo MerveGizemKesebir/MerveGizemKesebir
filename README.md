@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif"  width = "480px;" height = "200px;" align="left">
-<br><br>
+
 
 ##  ***I'm Merve Gizem. :sparkles: <br> Welcome to my Github profile.***
 
