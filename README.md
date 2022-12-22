@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif"  width = "600px;" height = "300px;">
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif"  width = "600px;" height = "300px;" align="right">
 <br><br>
 
 ##  ***I'm Merve Gizem. :sparkles: <br> Welcome to my Github profile.***
