@@ -1,16 +1,13 @@
-<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif"  width = "400px;" height = "250px;">
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif"  width = "600px;" height = "300px;">
 <br><br>
 
 ##  ***I'm Merve Gizem. :sparkles: <br> Welcome to my Github profile.***
 <br>
 
-### I'm a software learner. I’m currently learning <img src =""> Node.js and <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width ="22px;"> JavaScript.
+### I'm a software learner. I’m currently learning Node.js and <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width ="22px;"> JavaScript.
 <br>
 
-
-
 [<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left"  />] [linkedin]
-
 
 <details>
 <summary>:bulb: Most Used Languages </summary>
